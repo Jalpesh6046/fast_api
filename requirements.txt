@@ -1,3 +1,7 @@
 fastapi
 uvicorn
 pydantic
+pickle
+pandas
+numpy
+scikit-learn
